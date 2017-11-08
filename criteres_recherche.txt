@@ -1,0 +1,23 @@
+theses
+books
+lectures
+journal articles
+conference papers
+photos
+reports
+
+hal submission id [fait]
+document version [fait]
+uri	[fait]
+document type [table]
+titles [fait]
+author full name [table]
+publication date [fait]
+codes domaines du document [fait]
+page [fait]
+country [table]
+language [table]
+
+droit d'auteur [table]
+
+
