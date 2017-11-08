@@ -17,7 +17,6 @@ codes domaines du document [fait]
 page [fait]
 country [table]
 language [table]
-
 droit d'auteur [table]
 
 
